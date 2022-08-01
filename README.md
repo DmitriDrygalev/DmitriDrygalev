@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS HTML CSS
 - 🌱 I’m currently learning JS HTML CSS
 - 💞️ I’m looking to collaborate on JS HTML CSS
-- 📫 How to reach me you can't)))
+- 📫 How to reach me https://vk.com/dmitri1122
 
 <!---
 DmitriDrygalev/DmitriDrygalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
