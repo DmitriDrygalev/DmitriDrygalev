@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DmitriDrygalev
+- 👋 Hi, I’m @DmitryDrygalev
 - 👀 I’m interested in JS HTML CSS
 - 🌱 I’m currently learning JS HTML CSS
 - 💞️ I’m looking to collaborate on JS HTML CSS
